@@ -1,10 +1,10 @@
 ---
 # Привет! 
-# По всем вопросам, можете связаться со мной в телеграмм: [PostToMe](https://t.me/PostToMe_bot)
+# По всем вопросам, можете связаться со мной в [телеграм](https://t.me/PostToMe_bot)
  
 ---
 # Hello! 
-# For any questions, feel free to contact me on Telegram: [PostToMe](https://t.me/PostToMe_bot)
+# For any questions, feel free to contact me on [telegram](https://t.me/PostToMe_bot)
 
 ---
 
